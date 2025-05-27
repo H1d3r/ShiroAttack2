@@ -113,7 +113,7 @@
         <dependency>
             <groupId>commons-beanutils</groupId>
             <artifactId>commons-beanutils</artifactId>
-            <version>1.9.2</version>
+            <version>1.9.4</version>
         </dependency>
 
         <dependency>
@@ -128,7 +128,7 @@
         <dependency>
             <groupId>org.apache.commons</groupId>
             <artifactId>commons-collections4</artifactId>
-            <version>4.0</version>
+            <version>4.1</version>
         </dependency>
 
 
@@ -136,7 +136,7 @@
         <dependency>
             <groupId>commons-io</groupId>
             <artifactId>commons-io</artifactId>
-            <version>2.7</version>
+            <version>2.14.0</version>
         </dependency>
 
         <!--commons-logging-1.1.1.jar-->
@@ -181,14 +181,14 @@
         <dependency>
             <groupId>org.springframework</groupId>
             <artifactId>spring-core</artifactId>
-            <version>4.2.0.RELEASE</version>
+            <version>4.3.20.RELEASE</version>
         </dependency>
 
         <!--spring-web-4.2.0.RELEASE.jar-->
         <dependency>
             <groupId>org.springframework</groupId>
             <artifactId>spring-web</artifactId>
-            <version>4.2.0.RELEASE</version>
+            <version>6.1.14</version>
         </dependency>
         <dependency>
             <groupId>com.nqzero</groupId>
@@ -209,12 +209,12 @@
         <dependency>
             <groupId>org.clojure</groupId>
             <artifactId>clojure</artifactId>
-            <version>1.8.0</version>
+            <version>1.11.2</version>
         </dependency>
         <dependency>
             <groupId>org.apache.tomcat.embed</groupId>
             <artifactId>tomcat-embed-core</artifactId>
-            <version>9.0.36</version>
+            <version>9.0.104</version>
         </dependency>
         <dependency>
             <groupId>javax.servlet.jsp</groupId>
@@ -225,7 +225,7 @@
         <dependency>
             <groupId>org.apache.shiro</groupId>
             <artifactId>shiro-core</artifactId>
-            <version>1.2.4</version>
+            <version>1.13.0</version>
         </dependency>
 
         <dependency>
@@ -298,7 +298,7 @@
         <dependency>
             <groupId>cn.hutool</groupId>
             <artifactId>hutool-all</artifactId>
-            <version>5.7.13</version>
+            <version>5.8.21</version>
         </dependency>
         <dependency>
             <groupId>javassist</groupId>
